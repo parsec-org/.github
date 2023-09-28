@@ -10,8 +10,10 @@
 <br />
 <br />
 <h1 align="center">重庆秒差距科技有限公司——优秀互联网技术服务提供商</h1>
+<br />
 
-[官网]([http://www.cqkqinfo.com/](https://www.parsec.com.cn/)https://www.parsec.com.cn/)
+[官网](https://www.parsec.com.cn/, "重庆秒差距科技有限公司官网")&nbsp;&nbsp;
+[加入我们](https://www.parsec.com.cn/join, "加入我们")
 <br />
 <br />
 <br />
