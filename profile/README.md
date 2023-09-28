@@ -3,7 +3,7 @@
 <br />
 <br />
 <p align="center">
-  <a href="https://cqkqinfo.github.io/ui/">
+  <a href="https://github.com/parsec-org/">
   <img width="100" alt="image" src="https://github.com/parsec-org/.github/assets/12181423/4bad5734-9fc2-4bb7-acba-254dd7846006">
   </a>
 </p>
